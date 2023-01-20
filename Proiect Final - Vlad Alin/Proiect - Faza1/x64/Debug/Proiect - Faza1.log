@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Alin\OneDrive\Desktop\AN II\POO\VS 2022 - github\Proiect - Faza1 + Faza 2\Proiect - Faza1\tipLocatie.h(76,57): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Alin\OneDrive\Desktop\AN II\POO\VS 2022 - github\Proiect - Faza1 + Faza 2\Proiect - Faza1\tipLocatie.h(80,57): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Proiect - Faza1.vcxproj -> C:\Users\Alin\OneDrive\Desktop\AN II\POO\VS 2022 - github\Proiect - Faza1 + Faza 2\x64\Debug\Proiect - Faza1.exe
